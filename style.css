@@ -1,0 +1,35 @@
+html, body {
+    margin: 0px;
+}
+
+body {
+    font-family: Helvetica, Verdana, sans-serif;
+}
+
+.container {
+    width: 700px;
+    margin: auto;
+}
+
+#cards {
+    width: 100%;
+    margin: auto;
+}
+
+#cards p {
+    font-size: 70px;
+}
+
+#cards small {
+    font-size: 50px;
+    color: #777777;
+}
+
+.carddisplay {
+    font-size: 100px;
+    margin: auto;
+}
+
+td {
+    padding: 10px 80px;
+}
